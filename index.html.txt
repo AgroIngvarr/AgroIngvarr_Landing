@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agro Ingvarr — Визуальный пакет для LinkedIn</title>
+  <link href="https://fonts.googleapis.com/css2?family=Gilroy:wght@700&family=Open+Sans&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #1E3A8A;
+    }
+    header {
+      background: linear-gradient(to right, #2E8B57, #1E3A8A);
+      padding: 40px 20px;
+      color: white;
+      text-align: center;
+    }
+    header h1 {
+      font-family: 'Gilroy', sans-serif;
+      font-size: 2.5em;
+      margin: 0 0 10px;
+    }
+    section {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    h2 {
+      font-family: 'Gilroy', sans-serif;
+      color: #2E8B57;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .highlight {
+      background-color: #F9C74F;
+      padding: 5px 10px;
+      border-radius: 5px;
+      color: #1E3A8A;
+      display: inline-block;
+      margin-top: 10px;
+    }
+    .download {
+      background: #2E8B57;
+      color: white;
+      padding: 15px 25px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    .block {
+      margin-bottom: 40px;
+    }
+    footer {
+      background: #1E3A8A;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Визуальный пакет для LinkedIn от Agro Ingvarr</h1>
+    <p>Готовые шаблоны и графика для оформления профиля</p>
+  </header>
+  
+  <section>
+    <div class="block">
+      <h2>🎁 Что вы получаете:</h2>
+      <ul>
+        <li>Баннеры LinkedIn — 3 варианта: технологичный, природный, корпоративный</li>
+        <li>Аватар с 3D-логотипом (статичный + анимированный)</li>
+        <li>Инфографика: мониторинг, доходность, схема работы</li>
+        <li>Шаблоны карточек постов: кейсы, новости, статьи</li>
+      </ul>
+    </div>
+
+    <div class="block">
+      <h2>📦 Форматы файлов:</h2>
+      <ul>
+        <li>PSD с редактируемыми слоями</li>
+        <li>PNG — для мгновенного использования</li>
+        <li>Инструкции по загрузке и адаптации</li>
+      </ul>
+    </div>
+
+    <div class="block">
+      <h2>📤 Как получить:</h2>
+      <ul>
+        <li><strong>Шаг 1:</strong> Напишите нам ваш email</li>
+        <li><strong>Шаг 2:</strong> Укажите стиль баннера</li>
+        <li><strong>Шаг 3:</strong> Получите архив с файлами и инструкциями</li>
+      </ul>
+      <a href="#" class="download">Оставить заявку</a>
+    </div>
+
+    <div class="block">
+      <h2>⚡ Дополнительно по запросу:</h2>
+      <ul>
+        <li>Анимированные сторис</li>
+        <li>Гайд по соцсетям</li>
+        <li>Консультация по контенту (30 мин)</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 Agro Ingvarr. Все права защищены.
+  </footer>
+</body>
+</html>
